@@ -338,7 +338,7 @@
 			"channels": {
 				"main": {
 					"version": "1.0.3",
-					"released": "2024-11-17",
+					"released": "2024-12-02",
 					"default": true,
 					"files": [
 						{
@@ -436,7 +436,7 @@
 			"channels": {
 				"main": {
 					"version": "1.1.2",
-					"released": "2024-09-03",
+					"released": "2024-12-02",
 					"default": true,
 					"files": [
 						{
@@ -548,7 +548,7 @@
 			"channels": {
 				"main": {
 					"version": "1.0.1",
-					"released": "2024-07-21",
+					"released": "2024-12-02",
 					"default": true,
 					"files": [
 						{
@@ -607,7 +607,7 @@
 			"channels": {
 				"main": {
 					"version": "1.0.3",
-					"released": "2024-09-16",
+					"released": "2024-12-02",
 					"default": true,
 					"files": [
 						{
@@ -670,7 +670,7 @@
 			"channels": {
 				"main": {
 					"version": "1.0.2",
-					"released": "2024-10-13",
+					"released": "2024-12-02",
 					"default": true,
 					"files": [
 						{
@@ -726,7 +726,7 @@
 			"channels": {
 				"main": {
 					"version": "1.0.0",
-					"released": "2024-11-04",
+					"released": "2024-12-02",
 					"default": true,
 					"files": [
 						{
@@ -798,7 +798,7 @@
 			"channels": {
 				"main": {
 					"version": "1.0.5",
-					"released": "2024-09-27",
+					"released": "2024-12-02",
 					"default": true,
 					"files": [
 						{
